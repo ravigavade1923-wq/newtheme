@@ -1114,7 +1114,7 @@ body {
   text-align: center;
 }
 
-.epm-orbit-node-icon1 {
+/* .epm-orbit-node-icon1 {
   width: 54px;
   height: 54px;
   border-radius: 50%;
@@ -1134,7 +1134,7 @@ body {
   width: 54px;
   height: 54px;
   border-radius: 50%;
-  background: #c6ff84;
+  background: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1273,7 +1273,7 @@ body {
     0 14px 28px rgba(0, 0, 0, 0.12),
     inset 0 2px 6px rgba(255, 255, 255, 0.95);
   animation: epmOrbitCounter 24s linear infinite;
-}
+} */
 
 .epm-orbit-node p {
   margin: 7px 0 0;
