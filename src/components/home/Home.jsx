@@ -1154,52 +1154,52 @@ const Home = () => {
 
           <div className="epm-orbit-rotator">
             <div className="epm-orbit-node node-1">
-              <span className="epm-orbit-node-icon1"><FaHome /></span>
+              <span className="epm-orbit-node-icon"><FaHome /></span>
               <p>Home</p>
             </div>
 
             <div className="epm-orbit-node node-2">
-              <span className="epm-orbit-node-icon2"><FaUserMd /></span>
+              <span className="epm-orbit-node-icon"><FaUserMd /></span>
               <p>Medical</p>
             </div>
 
             <div className="epm-orbit-node node-3">
-              <span className="epm-orbit-node-icon3"><FaChartLine /></span>
+              <span className="epm-orbit-node-icon"><FaChartLine /></span>
               <p>Invest</p>
             </div>
 
             <div className="epm-orbit-node node-4">
-              <span className="epm-orbit-node-icon4"><FaCarSide /></span>
+              <span className="epm-orbit-node-icon"><FaCarSide /></span>
               <p>Vehicle</p>
             </div>
 
             <div className="epm-orbit-node node-5">
-              <span className="epm-orbit-node-icon5"><GiBigDiamondRing /></span>
+              <span className="epm-orbit-node-icon"><GiBigDiamondRing /></span>
               <p>Marriage</p>
             </div>
 
             <div className="epm-orbit-node node-6">
-              <span className="epm-orbit-node-icon6">₹</span>
+              <span className="epm-orbit-node-icon">₹</span>
               <p>Loan</p>
             </div>
 
             <div className="epm-orbit-node node-7">
-              <span className="epm-orbit-node-icon7"><FaGraduationCap /></span>
+              <span className="epm-orbit-node-icon"><FaGraduationCap /></span>
               <p>Education</p>
             </div>
 
             <div className="epm-orbit-node node-8">
-              <span className="epm-orbit-node-icon8"><FaShieldAlt /></span>
+              <span className="epm-orbit-node-icon"><FaShieldAlt /></span>
               <p>Insurance</p>
             </div>
 
             <div className="epm-orbit-node node-9">
-              <span className="epm-orbit-node-icon9"><MdFamilyRestroom /></span>
+              <span className="epm-orbit-node-icon"><MdFamilyRestroom /></span>
               <p>Estate</p>
             </div>
 
             <div className="epm-orbit-node node-10">
-              <span className="epm-orbit-node-icon10"><FaUmbrella /></span>
+              <span className="epm-orbit-node-icon"><FaUmbrella /></span>
               <p>Retire</p>
             </div>
           </div>
