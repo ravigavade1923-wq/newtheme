@@ -1114,7 +1114,7 @@ body {
   text-align: center;
 }
 
-/* .epm-orbit-node-icon1 {
+.epm-orbit-node-icon {
   width: 54px;
   height: 54px;
   border-radius: 50%;
@@ -1130,6 +1130,7 @@ body {
     inset 0 2px 6px rgba(255, 255, 255, 0.95);
   animation: epmOrbitCounter 24s linear infinite;
 }
+/* 
 .epm-orbit-node-icon2 {
   width: 54px;
   height: 54px;
